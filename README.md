@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN5aGFkMWt5YmpzNGx2OHB1dHhsam5tdXk0N3JsYWlucjQzd29kYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kqeTvSdVaMGQqym5m1/giphy.gif" width="680" style="border-radius: 8px; border: 2px solid #FF3344; box-shadow: 0 0 15px #FF3344;" alt="Arlecchino The Knave" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN5aGFkMWt5YmpzNGx2OHB1dHhsam5tdXk0N3JsYWlucjQzd29kYiZlcD12MV9naWZzX3RlbGF0ZWQmY3Q9Zw/kqeTvSdVaMGQqym5m1/giphy.gif" width="680" style="border-radius: 8px; border: 2px solid #FF3344; box-shadow: 0 0 15px #FF3344;" alt="Arlecchino The Knave" />
 
 </div>
 
@@ -14,17 +14,24 @@
 
 ## <samp>[//] SYSTEM STACK & TOOLS</samp>
 
-### <samp>/* Core Languages */</samp>
+### <samp>/* Core & Backend */</samp>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,java,dotnet,html,css,js&theme=dark" />
   </a>
 </p>
 
-### <samp>/* Frameworks & Libs */</samp>
+### <samp>/* Frontend Frameworks */</samp>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+  </a>
+</p>
+
+### <samp>/* Mobile App Development */</samp>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio,apple&theme=dark" />
   </a>
 </p>
 
