@@ -1,9 +1,9 @@
+<div align="center">
+
 # ─── ⋆⋅☆⋅⋆ ─── @TaHoang715 ─── ⋆⋅☆⋅⋆ ───
 
-<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN5aGFkMWt5YmpzNGx2OHB1dHhsam5tdXk0N3JsYWlucjQzd29kYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kqeTvSdVaMGQqym5m1/giphy.gif" width="650" alt="Arlecchino The Knave" />
 </div>
-
 
 ---
 
@@ -29,4 +29,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TaHoang715&color=FF3344&style=flat-square&label=TARGETS+ELIMINATED" alt="Profile Views" />
+
+<br><br>
+
+# ─── ⋆⋅☆⋅⋆ ─── @TaHoang715 ─── ⋆⋅☆⋅⋆ ───
+
 </div>
