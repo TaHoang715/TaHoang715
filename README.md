@@ -2,7 +2,7 @@
 
 # ─── ⋆⋅☆⋅⋆ ─── @TaHoang715 ─── ⋆⋅☆⋅⋆ ───
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF3344&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ta+Minh+Hoang;A+.NET+Software+Developer;Welcome+to+my+Cyber+Space+..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF3344&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ta+Minh+Hoang;A+FullStack+Software+Developer;Welcome+to+my+Cyber+Space+..." alt="Typing SVG" />
 
 <br>
 
