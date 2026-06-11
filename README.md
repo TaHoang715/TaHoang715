@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN5aGFkMWt5YmpzNGx2OHB1dHhsam5tdXk0N3JsYWlucjQzd29kYiZlcD12MV9naWZzX3RlbGF0ZWQmY3Q9Zw/kqeTvSdVaMGQqym5m1/giphy.gif" width="680" style="border-radius: 8px; border: 2px solid #2ea44f; box-shadow: 0 0 15px rgba(46, 164, 79, 0.4);" alt="Arlecchino The Knave" />
+<img src="https://github.com/user-attachments/assets/b3f08a07-1442-4faf-b13a-716a9189d714" width="680" style="border-radius: 8px; border: 2px solid #2ea44f; box-shadow: 0 0 15px rgba(46, 164, 79, 0.4);" alt="Arlecchino The Knave" />
 
 </div>
 
