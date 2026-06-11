@@ -62,7 +62,7 @@
 <div align="center">
 
 <div style="border: 2px solid #2ea44f; border-radius: 12px; padding: 10px; background: #0b0f19; box-shadow: 0 0 20px rgba(46, 164, 79, 0.25); max-width: 850px; margin-bottom: 20px; display: inline-block;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaHoang715&theme=react-dark&bg_color=0b0f19&color=2ea44f&line=2ea44f&point=ffffff&area=true&hide_border=true" width="100%" alt="Commit Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaHoang715&theme=shades-of-purple&bg_color=0b0f19&color=2ea44f&line=2ea44f&point=ffffff&area=true&hide_border=true&v=1" width="100%" alt="Commit Activity Graph" />
 </div>
 
 <br>
