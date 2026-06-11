@@ -104,15 +104,27 @@
   <a href="https://www.facebook.com/ta.minh.hoang.293535" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com/users/1327981540738863195" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
+<div align="center">
+<samp>
+  ❯ <b>LOC :</b> <a href="https://maps.app.goo.gl/yXN8g4Hmx9v58UuJ7" target="_blank">Ho Chi Minh City, Vietnam</a> <br>
+  ❯ <b>EML :</b> <a href="mailto:taminhhoang.nk@gmail.com">taminhhoang.nk@gmail.com</a> <br>
+  ❯ <b>FB  :</b> <a href="https://www.facebook.com/ta.minh.hoang.293535" target="_blank">Minh Hoang</a> <br>
+  ❯ <b>DC  :</b> <a href="https://discord.com/users/1327981540738863195" target="_blank">TaHoang715</a>
+</samp>
+</div>
+
 <br>
 
 <p align="center">
-  <i>Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration. 🚀</i>
+  <code>[system@tahoang715]$ connection_established --status=success</code> <br>
+  <i>"Initialization complete. Feel free to inspect the source or initiate a handshake for collaboration."</i>
+  <br><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcWoxY295ZXN3Ynd6Z3VwYmN0N3Y0M3R6bms2Y2Z6dWZ0Zms4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0IFrHk8f569B6Mw/giphy.gif" width="30" alt="Cyber Pulse" />
 </p>
 
 ---
