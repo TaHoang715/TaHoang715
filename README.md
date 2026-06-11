@@ -1,9 +1,11 @@
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/a492b7c6-eb2d-4e44-a427-02abb83cd7c6" width="100%" style="max-width: 850px; border-radius: 8px;" alt="TaHoang715 Cyber Banner" />
+
 # ─── ⋆⋅☆⋅⋆ ─── @TaHoang715 ─── ⋆⋅☆⋅⋆ ───
 
-<div style="background: #0b0f19; border: 2px solid #FF3344; border-radius: 8px; padding: 12px 20px; max-width: 550px; margin: 0 auto; box-shadow: 0 0 15px rgba(255, 51, 68, 0.25);">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=24&duration=3000&pause=1000&color=FF3344&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ta+Minh+Hoang;A+FullStack+Software+Developer;Welcome+to+my+Cyber+Space+...&stroke=000000&stroke_width=1.5&v=1" alt="Typing SVG" />
+<div style="background: #0b0f19; border: 2px solid #00f5d4; border-radius: 8px; padding: 12px 20px; max-width: 550px; margin: 0 auto; box-shadow: 0 0 15px rgba(0, 245, 212, 0.35);">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=400&size=20&duration=3000&pause=1000&color=00f5d4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ta+Minh+Hoang;A+FullStack+Software+Developer;Welcome+to+my+Cyber+Space+...&stroke=000000&stroke_width=1&v=1" alt="Typing SVG" />
 </div>
 
 <br>
@@ -81,7 +83,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=dark&icon_color=2ea44f&title_color=2ea44f&text_color=FFFFFF&bg_color=0b0f19&hide_border=true" height="165" alt="Top Languages" />
     </td>
     <td valign="top" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTVoaWd2ZGQxbW5lcGRoeHgwbjhqYW04emNubDV0dGV0emc0cjBzeiZlcD12MV9naWZzX3RlbGF0ZWQmY3Q9Zw/XEgmzMLDhFQAga8umN/giphy.gif" height="165" style="border-radius: 8px; border: 2px solid #2ea44f; box-shadow: 0 0 10px rgba(46, 164, 79, 0.3);" alt="Top Languages" />
+      <img src="https://github.com/user-attachments/assets/aa2055ed-bcb5-4fa7-ae05-3b448438c573" height="165" style="border-radius: 8px; border: 2px solid #2ea44f; box-shadow: 0 0 10px rgba(46, 164, 79, 0.3);" alt="Custom GIF Asset" />
     </td>
   </tr>
 </table>
@@ -98,7 +100,7 @@
   <a href="mailto:taminhhoang.nk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.facebook.com/ta.minh.hoang.293535" target="_blank">
+  <a href="https://www.facebook.com/ta.min.h.hoang.293535" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://discord.com/users/1327981540738863195" target="_blank">
@@ -110,7 +112,7 @@
 <samp>
   ❯ <b>LOC :</b> <a href="https://maps.app.goo.gl/yXN8g4Hmx9v58UuJ7" target="_blank">Ho Chi Minh City, Vietnam</a> <br>
   ❯ <b>EML :</b> <a href="mailto:taminhhoang.nk@gmail.com">taminhhoang.nk@gmail.com</a> <br>
-  ❯ <b>FB  :</b> <a href="https://www.facebook.com/ta.minh.hoang.293535" target="_blank">Minh Hoang</a> <br>
+  ❯ <b>FB  :</b> <a href="https://www.facebook.com/ta.min.h.hoang.293535" target="_blank">Minh Hoang</a> <br>
   ❯ <b>DC  :</b> <a href="https://discord.com/users/1327981540738863195" target="_blank">TaHoang715</a>
 </samp>
 </div>
