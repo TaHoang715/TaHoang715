@@ -58,6 +58,17 @@
 <br>
 
 ---
+## <samp>[//] ABOUT ME</samp>
+<p align="justify">
+  <samp>
+    ❯ <b>Status:</b> Software Engineering student currently leveling up. <br>
+    ❯ <b>Mission:</b> Crafting efficient software systems and exploring the synergy between hardware and digital logic. <br>
+    ❯ <b>Hobbies:</b> When I'm not debugging or tinkering with hardware, I'm a traveler in the world of <i>Genshin Impact</i> (UID: <code>894252521</code>). <br>
+    ❯ <b>Philosophy:</b> "Initialization complete. Always learning, always building."
+  </samp>
+</p>
+
+<br>
 
 ## <samp>[//] GIT COMBAT STATS</samp>
 
