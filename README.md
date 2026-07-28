@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <td valign="top" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=2ea44f&title_color=2ea44f&text_color=FFFFFF&bg_color=0b0f19&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=2ea44f&title_color=2ea44f&text_color=FFFFFF&bg_color=0b0f19&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
     </td>
     <td valign="top" align="center">
       <img src="https://streak-stats.demolab.com/?user=TaHoang715&theme=dark&background=0b0f19&fire=2ea44f&ring=2ea44f&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" height="165" alt="GitHub Streak" />
