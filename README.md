@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <td valign="top" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=2ea44f&title_color=2ea44f&text_color=FFFFFF&bg_color=0b0f19&hide_border=true" height="165" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=2ea44f&title_color=2ea44f&text_color=FFFFFF&bg_color=0b0f19&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
     </td>
     <td valign="top" align="center">
       <img src="https://streak-stats.demolab.com/?user=TaHoang715&theme=dark&background=0b0f19&fire=2ea44f&ring=2ea44f&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" height="165" alt="GitHub Streak" />
@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td valign="top" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=dark&icon_color=2ea44f&title_color=2ea44f&text_color=FFFFFF&bg_color=0b0f19&hide_border=true" height="165" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=dark&icon_color=2ea44f&title_color=2ea44f&text_color=FFFFFF&bg_color=0b0f19&hide_border=true&hide=cmake" height="165" alt="Top Languages" />
     </td>
     <td valign="top" align="center">
       <img src="https://github.com/user-attachments/assets/aa2055ed-bcb5-4fa7-ae05-3b448438c573" height="165" style="border-radius: 8px; border: 2px solid #2ea44f; box-shadow: 0 0 10px rgba(46, 164, 79, 0.3);" alt="Custom GIF Asset" />
