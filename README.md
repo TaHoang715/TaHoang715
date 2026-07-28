@@ -80,7 +80,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=matrix&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=matrix&column=4&margin-w=15&margin-h=15&title=-Reviews" alt="GitHub Trophies" />
       </a>
       <br><br>
     </td>
