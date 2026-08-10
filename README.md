@@ -10,11 +10,11 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/b3f08a07-1442-4faf-b13a-716a9189d714" width="680" style="border-radius: 8px; border: 2px solid #00f5d4; box-shadow: 0 0 15px rgba(0, 245, 212, 0.35);" alt="Arlecchino The Knave" />
+<!-- <img src="https://github.com/user-attachments/assets/b3f08a07-1442-4faf-b13a-716a9189d714" width="680" style="border-radius: 8px; border: 2px solid #00f5d4; box-shadow: 0 0 15px rgba(0, 245, 212, 0.35);" alt="Arlecchino The Knave" /> -->
 
 </div>
 
-<br><br>
+<!-- <br><br> -->
 
 ---
 
