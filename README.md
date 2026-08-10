@@ -18,7 +18,7 @@
 
 ---
 
-## <samp>[//] SYSTEM STACK & TOOLS</samp>
+<h3><samp>[//] SYSTEM STACK & TOOLS</samp></h3>
 
 <samp><b>/* Core Languages & Backend */</b></samp>
 <p align="left">
@@ -77,10 +77,9 @@
 
 <br>
 
-
-
 ---
-## <samp>[//] ABOUT ME</samp>
+
+<h3><samp>[//] ABOUT ME</samp></h3>
 <p align="justify">
   <samp>
     ❯ <b>Status:</b> Software Engineering student currently leveling up. <br>
@@ -89,8 +88,10 @@
     ❯ <b>Philosophy:</b> "Initialization complete. Always learning, always building."
   </samp>
 </p>
+
 <br>
-## <samp>[//] MY FEATURED OPEN-SOURCE PROJECTS</samp>
+
+<h3><samp>[//] MY FEATURED OPEN-SOURCE PROJECTS</samp></h3>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="100%">
@@ -121,9 +122,10 @@
     </td>
   </tr>
 </table>
+
 <br>
 
-## <samp>[//] GIT COMBAT STATS</samp>
+<h3><samp>[//] GIT COMBAT STATS</samp></h3>
 
 <div align="center">
 
@@ -160,7 +162,7 @@
 
 ---
 
-## <samp>[//] TERMINAL CONTACTS</samp>
+<h3><samp>[//] TERMINAL CONTACTS</samp></h3>
 
 <p align="center">
   <a href="mailto:taminhhoang.nk@gmail.com">
