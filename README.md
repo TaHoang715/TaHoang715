@@ -77,8 +77,6 @@
 
 <br>
 
----
-
 <h3><samp>[//] ABOUT ME</samp></h3>
 <p align="justify">
   <samp>
@@ -125,6 +123,8 @@
 
 <br>
 
+---
+
 <h3><samp>[//] GIT COMBAT STATS</samp></h3>
 
 <div align="center">
@@ -160,6 +160,8 @@
 
 </div>
 
+<br>
+
 ---
 
 <h3><samp>[//] TERMINAL CONTACTS</samp></h3>
@@ -193,6 +195,8 @@
   <br><br>
   <img src="https://raw.githubusercontent.com/Anankke/Anankke/master/images/green.gif" width="40" alt="Cyber Pulse" />
 </p>
+
+<br>
 
 ---
 
