@@ -70,6 +70,27 @@
 
 <br>
 
+## <samp>[//] MY FEATURED OPEN-SOURCE PROJECTS</samp>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="100%">
+      <div style="background: #0b0f19; border: 1px solid #00f5d4; border-radius: 8px; padding: 14px 18px; margin-bottom: 12px; box-shadow: 0 0 10px rgba(0, 245, 212, 0.25);">
+        <samp>
+          <b><a href="https://github.com/TaHoang715/streak-booster" target="_blank" style="color: #00f5d4; text-decoration: none;">🚀 streak-booster</a></b> <br>
+          <span style="color: #8b949e;">Automated activity workflow & customizable profile builder for GitHub READMEs. Includes zero-dependency web dashboard & visitor tracking.</span> <br><br>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+          <img src="https://img.shields.io/badge/License-MIT-00f5d4?style=flat-square" />
+        </samp>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ## <samp>[//] GIT COMBAT STATS</samp>
 
 <div align="center">
