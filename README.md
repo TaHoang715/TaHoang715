@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 </p>
 
-<samp><b>/* Databases, Cloud & Hosting */</b></samp>
+<samp><b>/* Databases, Cloud & Infrastructure */</b></samp>
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Convex-131419?style=flat-square&logo=convex&logoColor=white" />
@@ -61,7 +61,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+<samp><b>/* Payments, Mail & Third-Party APIs */</b></samp>
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayOS-0052FF?style=flat-square&logo=googlepay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" />
+  <img src="https://img.shields.io/badge/SendGrid-00B2E2?style=flat-square&logo=twilio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
+
 <br>
+
 
 
 ---
