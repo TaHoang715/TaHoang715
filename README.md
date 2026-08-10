@@ -76,6 +76,17 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 </p>
 
+<samp><b>/* AI & Agentic Engineering */</b></samp>
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4E6BFF?style=flat-square&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B5?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kimi_AI-000000?style=flat-square&logo=moonshot&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+</p>
 <br>
 
 <h3><samp>[//] ABOUT ME</samp></h3>
