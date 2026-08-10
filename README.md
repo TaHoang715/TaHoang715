@@ -89,9 +89,7 @@
     ❯ <b>Philosophy:</b> "Initialization complete. Always learning, always building."
   </samp>
 </p>
-
 <br>
-
 ## <samp>[//] MY FEATURED OPEN-SOURCE PROJECTS</samp>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
