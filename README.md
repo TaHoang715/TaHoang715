@@ -89,6 +89,7 @@
 </p>
 <br>
 
+---
 <h3><samp>[//] ABOUT ME</samp></h3>
 <p align="justify">
   <samp>
