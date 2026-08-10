@@ -20,42 +20,49 @@
 
 ## <samp>[//] SYSTEM STACK & TOOLS</samp>
 
-### <samp>/* Core & Backend */</samp>
+<samp><b>/* Core Languages & Backend */</b></samp>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,dotnet,html,css,js&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
-### <samp>/* Frontend Frameworks */</samp>
+<samp><b>/* Web Frameworks & UI */</b></samp>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
-### <samp>/* Mobile App Development */</samp>
+<samp><b>/* Mobile App Development */</b></samp>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio,apple&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 </p>
 
-### <samp>/* Databases, Cloud & DevOps */</samp>
+<samp><b>/* Databases, Cloud & Hosting */</b></samp>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,azure,docker&theme=dark" />
-  </a>
-</p>
-
-### <samp>/* Environment & Infrastructure */</samp>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Convex-131419?style=flat-square&logo=convex&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <br>
+
 
 ---
 ## <samp>[//] ABOUT ME</samp>
