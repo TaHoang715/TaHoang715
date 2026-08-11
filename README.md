@@ -200,10 +200,7 @@
   <img src="https://raw.githubusercontent.com/Anankke/Anankke/master/images/green.gif" width="40" alt="Cyber Pulse" />
 </p>
 
-<br>
-
 ---
-
 <div align="center">
   <samp>PROFILE VISITOR COUNT</samp>
   <br><br>
