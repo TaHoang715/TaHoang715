@@ -174,6 +174,9 @@
   <a href="mailto:taminhhoang.nk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://www.linkedin.com/in/ho%C3%A0ng-t%E1%BA%A1-a9a5031b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://www.facebook.com/ta.min.h.hoang.293535" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -186,6 +189,7 @@
 <samp>
   ❯ <b>LOC :</b> <a href="https://maps.app.goo.gl/yXN8g4Hmx9v58UuJ7" target="_blank">Ho Chi Minh City, Vietnam</a> <br>
   ❯ <b>EML :</b> <a href="mailto:taminhhoang.nk@gmail.com">taminhhoang.nk@gmail.com</a> <br>
+  ❯ <b>LN  :</b> <a href="https://www.linkedin.com/in/ho%C3%A0ng-t%E1%BA%A1-a9a5031b8" target="_blank">Hoàng Tạ</a> <br>
   ❯ <b>FB  :</b> <a href="https://www.facebook.com/ta.min.h.hoang.293535" target="_blank">Minh Hoang</a> <br>
   ❯ <b>DC  :</b> <a href="https://discord.com/users/1327981540738863195" target="_blank">TaHoang715</a>
 </samp>
