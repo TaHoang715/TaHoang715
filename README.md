@@ -4,17 +4,12 @@
 
 # ─── ⋆⋅☆⋅⋆ ─── @TaHoang715 ─── ⋆⋅☆⋅⋆ ───
 
+<br>
 <div style="background: #0b0f19; border: 2px solid #00f5d4; border-radius: 8px; padding: 12px 20px; max-width: 550px; margin: 0 auto; box-shadow: 0 0 15px rgba(0, 245, 212, 0.35);">
   <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=400&size=20&duration=3000&pause=1000&color=00f5d4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ta+Minh+Hoang;A+FullStack+Software+Developer;Welcome+to+my+Cyber+Space+...&stroke=000000&stroke_width=1&v=1" alt="Typing SVG" />
 </div>
-
-<!-- <br> -->
-
-<!-- <img src="https://github.com/user-attachments/assets/b3f08a07-1442-4faf-b13a-716a9189d714" width="680" style="border-radius: 8px; border: 2px solid #00f5d4; box-shadow: 0 0 15px rgba(0, 245, 212, 0.35);" alt="Arlecchino The Knave" /> -->
-
 </div>
 
-<!-- <br><br> -->
 ---
 
 <h3><samp>[//] SYSTEM STACK & TOOLS</samp></h3>
