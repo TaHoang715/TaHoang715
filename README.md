@@ -13,7 +13,7 @@
 ---
 
 <details open>
-  <summary><b><samp>[//] SYSTEM STACK & TOOLS</samp></b></summary>
+  <summary><h2><samp>[//] SYSTEM STACK & TOOLS</samp></h2></summary>
   <br>
   <samp><b>/* Core Languages & Backend */</b></samp>
   <p align="left">
@@ -89,7 +89,7 @@
 ---
 
 <details>
-  <summary><b><samp>[//] ABOUT ME</samp></b></summary>
+  <summary><h2><samp>[//] ABOUT ME</samp></h2></summary>
   <br>
   <p align="justify">
     <samp>
@@ -104,7 +104,7 @@
 <br>
 
 <details open>
-  <summary><b><samp>[//] MY FEATURED OPEN-SOURCE PROJECTS</samp></b></summary>
+  <summary><h2><samp>[//] MY FEATURED OPEN-SOURCE PROJECTS</samp></h2></summary>
   <br>
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
@@ -141,7 +141,7 @@
 <br>
 
 <details>
-  <summary><b><samp>[//] GIT COMBAT STATS</samp></b></summary>
+  <summary><h2><samp>[//] GIT COMBAT STATS</samp></h2></summary>
   <br>
   <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#0b0f19">
@@ -181,6 +181,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=700&size=20&duration=1&pause=1000&color=00f5d4&center=true&vCenter=true&width=350&lines=CONTACTS+FOR+WORK&stroke=000000&stroke_width=1&v=1" alt="Contacts For Work Header" />
 </p>
 
+<br>
 
 <p align="center">
   <a href="mailto:taminhhoang.nk@gmail.com">
@@ -202,7 +203,7 @@
     <samp>
       ❯ <b>LOC :</b> <a href="https://maps.app.goo.gl/yXN8g4Hmx9v58UuJ7" target="_blank">Ho Chi Minh City, Vietnam</a> <br>
       ❯ <b>EML :</b> <a href="mailto:taminhhoang.nk@gmail.com">taminhhoang.nk@gmail.com</a> <br>
-      ❯ <b>LN  :</b> <a href="https://www.linkedin.com/in/ho%C3%A0ng-t%E1%BA%A1-a9a5031b8" target="_blank">Minh Hoang</a> <br>
+      ❯ <b>LN  :</b> <a href="https://www.linkedin.com/in/ho%C3%A0ng-t%E1%BA%A1-a9a5031b8" target="_blank">Hoàng Tạ</a> <br>
       ❯ <b>FB  :</b> <a href="https://www.facebook.com/ta.min.h.hoang.293535" target="_blank">Minh Hoang</a> <br>
       ❯ <b>DC  :</b> <a href="https://discord.com/users/1327981540738863195" target="_blank">TaHoang715</a>
     </samp>
