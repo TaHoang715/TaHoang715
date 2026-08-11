@@ -181,8 +181,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=700&size=20&duration=1&pause=1000&color=00f5d4&center=true&vCenter=true&width=350&lines=CONTACTS+FOR+WORK&stroke=000000&stroke_width=1&v=1" alt="Contacts For Work Header" />
 </p>
 
-<br>
-
 <p align="center">
   <a href="mailto:taminhhoang.nk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
