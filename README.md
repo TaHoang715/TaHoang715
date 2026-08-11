@@ -135,33 +135,33 @@
 
 <h3><samp>[//] GIT COMBAT STATS</samp></h3>
 <div align="center">
-<div style="background-color: #0b0f19; border: 1px solid #00f5d4; border-radius: 8px; padding: 16px; box-shadow: 0 0 15px rgba(0, 245, 212, 0.25);">
-  <table border="0" cellpadding="0" cellspacing="0" align="center" style="background-color: #0b0f19; border: none; border-collapse: collapse;">
-    <tr>
-      <td colspan="2" align="center" style="background-color: #0b0f19; border: none; padding-bottom: 14px;">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=tokyonight&column=4&margin-w=15&margin-h=15&title=-Reviews" alt="GitHub Trophies" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" align="center" style="background-color: #0b0f19; border: none; padding: 6px;">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0b0f19&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-      </td>
-      <td valign="top" align="center" style="background-color: #0b0f19; border: none; padding: 6px;">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TaHoang715&theme=dark&background=0b0f19&fire=00f5d4&ring=00f5d4&currStreakLabel=00f5d4&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" height="165" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" align="center" style="background-color: #0b0f19; border: none; padding: 6px;">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0b0f19&hide_border=true&hide=cmake" height="165" alt="Top Languages" />
-      </td>
-      <td valign="top" align="center" style="background-color: #0b0f19; border: none; padding: 6px;">
-        <img src="https://github.com/user-attachments/assets/aa2055ed-bcb5-4fa7-ae05-3b448438c573" height="165" style="border-radius: 8px; border: 2px solid #00f5d4; box-shadow: 0 0 10px rgba(0, 245, 212, 0.35);" alt="Custom GIF Asset" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br>
+<table border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#0b0f19">
+  <tr bgcolor="#0b0f19">
+    <td colspan="2" align="center" bgcolor="#0b0f19">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=tokyonight&column=4&margin-w=15&margin-h=15&title=-Reviews" alt="GitHub Trophies" />
+      </a>
+      <br><br>
+    </td>
+  </tr>
+  <tr bgcolor="#0b0f19">
+    <td valign="top" align="center" bgcolor="#0b0f19">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0b0f19&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+    </td>
+    <td valign="top" align="center" bgcolor="#0b0f19">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TaHoang715&theme=dark&background=0b0f19&fire=00f5d4&ring=00f5d4&currStreakLabel=00f5d4&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" height="165" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr bgcolor="#0b0f19">
+    <td valign="top" align="center" bgcolor="#0b0f19">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0b0f19&hide_border=true&hide=cmake" height="165" alt="Top Languages" />
+    </td>
+    <td valign="top" align="center" bgcolor="#0b0f19">
+      <img src="https://github.com/user-attachments/assets/aa2055ed-bcb5-4fa7-ae05-3b448438c573" height="165" style="border-radius: 8px; border: 2px solid #00f5d4; box-shadow: 0 0 10px rgba(0, 245, 212, 0.35);" alt="Custom GIF Asset" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
