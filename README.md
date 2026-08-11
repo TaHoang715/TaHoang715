@@ -169,9 +169,7 @@
 ---
 
 <div align="center">
-  <div style="background: #0b0f19; border: 1.5px solid #00f5d4; border-radius: 6px; padding: 6px 14px; max-width: 420px; margin: 0 auto; box-shadow: 0 0 10px rgba(0, 245, 212, 0.3);">
-    <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=400&size=16&duration=2500&pause=800&color=00f5d4&center=true&vCenter=true&width=380&lines=TERMINAL+CONTACTS;LET'S+CONNECT&stroke=000000&stroke_width=1&v=1" alt="Contacts Typing SVG" />
-  </div>
+  <h3><samp><font color="#00f5d4">CONTACTS FOR WORK</font></samp></h3>
 </div>
 
 <br>
