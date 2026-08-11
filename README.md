@@ -111,11 +111,12 @@
       <td valign="top" width="100%">
         <div style="background: #0b0f19; border: 1px solid #00f5d4; border-radius: 8px; padding: 14px 18px; margin-bottom: 12px; box-shadow: 0 0 10px rgba(0, 245, 212, 0.25);">
           <samp>
-            <b><a href="https://github.com/TaHoang715/streak-booster" target="_blank" style="color: #00f5d4; text-decoration: none;">streak-booster</a></b> <br>
-            <span style="color: #8b949e;">Automated activity workflow & customizable profile builder for GitHub READMEs. Includes zero-dependency web dashboard & visitor tracking.</span> <br><br>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+            <b><a href="https://github.com/TaHoang715/Agent-skills" target="_blank" style="color: #00f5d4; text-decoration: none;">Agent-skills</a></b> <br>
+            <span style="color: #8b949e;">Production AI Agent environment & modular skills ecosystem. Integrated with Andrej Karpathy's viral rules, TencentDB long-term memory hub, system design blueprints, .NET 8 / Next.js standards, and automated MCP server workflows for Claude Code & Antigravity.</span> <br><br>
+            <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+            <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+            <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+            <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
             <img src="https://img.shields.io/badge/License-MIT-00f5d4?style=flat-square" />
           </samp>
         </div>
@@ -126,11 +127,25 @@
         <div style="background: #0b0f19; border: 1px solid #00f5d4; border-radius: 8px; padding: 14px 18px; margin-bottom: 12px; box-shadow: 0 0 10px rgba(0, 245, 212, 0.25);">
           <samp>
             <b><a href="https://github.com/PRN232Project" target="_blank" style="color: #00f5d4; text-decoration: none;">OnlineLearningPlatformProject</a></b> <br>
-            <span style="color: #8b949e;">Enterprise .NET Application & Web API system built for PRN232. Integrated with EF Core, SQL Server & modern architecture patterns.</span> <br><br>
+            <span style="color: #8b949e;">High-scalability Enterprise E-Learning & Digital Course Management Platform. Built with ASP.NET Core Web API, Entity Framework Core, SQL Server, and Clean Architecture for asynchronous course publishing & student analytics.</span> <br><br>
             <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
             <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
             <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
             <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+          </samp>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="100%">
+        <div style="background: #0b0f19; border: 1px solid #00f5d4; border-radius: 8px; padding: 14px 18px; margin-bottom: 12px; box-shadow: 0 0 10px rgba(0, 245, 212, 0.25);">
+          <samp>
+            <b><a href="https://github.com/TaHoang715/streak-booster" target="_blank" style="color: #00f5d4; text-decoration: none;">streak-booster</a></b> <br>
+            <span style="color: #8b949e;">Automated activity workflow & customizable profile builder for GitHub READMEs. Includes zero-dependency web dashboard & visitor tracking.</span> <br><br>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+            <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+            <img src="https://img.shields.io/badge/License-MIT-00f5d4?style=flat-square" />
           </samp>
         </div>
       </td>
