@@ -88,7 +88,7 @@
 
 ---
 
-<details open>
+<details>
   <summary><b><samp>[//] ABOUT ME</samp></b></summary>
   <br>
   <p align="justify">
@@ -103,7 +103,7 @@
 
 <br>
 
-<details open>
+<details>
   <summary><b><samp>[//] MY FEATURED OPEN-SOURCE PROJECTS</samp></b></summary>
   <br>
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -140,7 +140,7 @@
 
 <br>
 
-<details open>
+<details>
   <summary><b><samp>[//] GIT COMBAT STATS</samp></b></summary>
   <br>
   <div align="center">
