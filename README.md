@@ -17,7 +17,7 @@
 <details>
   <summary>
     <samp>
-      <b>[ ─── ⚡ CLICK HERE TO VIEW FULL PROFILE & MORE INFO ⚡ ─── ]</b>
+      <b>[MORE INFO]</b>
     </samp>
   </summary>
   <br>
