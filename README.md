@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TaHoang715/TaHoang715/main/assets/cyber_banner.webp" width="100%" style="max-width: 850px;" alt="TaHoang715 Cyber Banner" />
+<img src="https://raw.githubusercontent.com/TaHoang715/TaHoang715/main/assets/cyber_banner_v2.webp" width="100%" style="max-width: 850px;" alt="TaHoang715 Cyber Banner" />
 
 <!--# ─── ⋆⋅☆⋅⋆ ─── @TaHoang715 ─── ⋆⋅☆⋅⋆ ───-->
 
