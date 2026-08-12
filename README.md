@@ -10,11 +10,22 @@
 <div style="background: #0b0f19; border: 2px solid #00f5d4; border-radius: 8px; padding: 12px 20px; max-width: 550px; margin: 0 auto; box-shadow: 0 0 15px rgba(0, 245, 212, 0.35);">
   <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=400&size=20&duration=3000&pause=1000&color=00f5d4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ta+Minh+Hoang;A+FullStack+Software+Developer;Welcome+to+my+Cyber+Space+...&stroke=000000&stroke_width=1&v=1" alt="Typing SVG" />
 </div>
-</div>
 
 <br>
 
+<!-- NÚT MỞ RỘNG "MORE INFO" CHÍNH -->
+<details>
+  <summary>
+    <samp>
+      <b>[ ─── ⚡ CLICK HERE TO VIEW FULL PROFILE & MORE INFO ⚡ ─── ]</b>
+    </samp>
+  </summary>
+  <br>
+
 ---
+
+
+<div align="left">
 
 <details open>
   <summary><h2><samp>[//] SYSTEM STACK & TOOLS</samp></h2></summary>
@@ -90,7 +101,7 @@
 
 <br>
 
-<details>
+<details open>
   <summary><h2><samp>[//] ABOUT ME</samp></h2></summary>
   <br>
   <p align="justify">
@@ -157,7 +168,7 @@
 
 <br>
 
-<details>
+<details open>
   <summary><h2><samp>[//] GIT COMBAT STATS</samp></h2></summary>
   <br>
   <div align="center">
@@ -190,10 +201,16 @@
   </div>
 </details>
 
+</div>
+</details>
+
+</div>
+
 <br>
 
 ---
 
+<!-- TOÀN BỘ PHẦN CONTACTS ĐỔ XUỐNG ĐƯỢC HIỂN THỊ TRỰC TIẾP -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=700&size=20&duration=1&pause=1000&color=00f5d4&center=true&vCenter=true&width=350&lines=CONTACTS+FOR+WORK&stroke=000000&stroke_width=1&v=1" alt="Contacts For Work Header" />
 </p>
@@ -219,7 +236,7 @@
       ❯ <b>LOC :</b> <a href="https://maps.app.goo.gl/yXN8g4Hmx9v58UuJ7" target="_blank">Ho Chi Minh City, Vietnam</a> <br>
       ❯ <b>EML :</b> <a href="mailto:taminhhoang.nk@gmail.com">taminhhoang.nk@gmail.com</a> <br>
       ❯ <b>FB  :</b> <a href="https://www.facebook.com/ta.min.h.hoang.293535" target="_blank">Minh Hoang</a> <br>
-      ❯ <b>DC  :</b> <a href="https://discord.com/users/1327981540738863195" target="_blank">TaHoang715</a> 
+      ❯ <b>DC  :</b> <a href="https://discord.com/users/1327981540738863195" target="_blank">TaHoang715</a> <br>
       ❯ <b>LN  :</b> <a href="https://www.linkedin.com/in/ho%C3%A0ng-t%E1%BA%A1-a9a5031b8" target="_blank">Hoàng Tạ</a> <br>
     </samp>
   </div>
