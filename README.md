@@ -255,7 +255,7 @@
 <div align="center">
   <samp>PROFILE VISITOR COUNT</samp>
   <br><br>
-  <img src="https://count.getloli.com/get/@TaHoang715?theme=booru-lewd&v=1" alt="Moe Counter Booru Lewd Theme" />
+  <img src="https://count.getloli.com/get/@TaHoang715?theme=rule34&v=1" alt="Moe Counter Rule34 Theme" />
 </div>
 
 <br>
