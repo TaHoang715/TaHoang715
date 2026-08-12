@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00f5d4"/>
+
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/a492b7c6-eb2d-4e44-a427-02abb83cd7c6" width="100%" style="max-width: 850px; border-radius: 8px;" alt="TaHoang715 Cyber Banner" />
@@ -9,6 +11,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=400&size=20&duration=3000&pause=1000&color=00f5d4&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ta+Minh+Hoang;A+FullStack+Software+Developer;Welcome+to+my+Cyber+Space+...&stroke=000000&stroke_width=1&v=1" alt="Typing SVG" />
 </div>
 </div>
+
+<br>
 
 ---
 
@@ -216,7 +220,6 @@
     <samp>
       ❯ <b>LOC :</b> <a href="https://maps.app.goo.gl/yXN8g4Hmx9v58UuJ7" target="_blank">Ho Chi Minh City, Vietnam</a> <br>
       ❯ <b>EML :</b> <a href="mailto:taminhhoang.nk@gmail.com">taminhhoang.nk@gmail.com</a> <br>
-      <!-- ❯ <b>LN  :</b> <a href="https://www.linkedin.com/in/ho%C3%A0ng-t%E1%BA%A1-a9a5031b8" target="_blank">Hoàng Tạ</a> <br> -->
       ❯ <b>FB  :</b> <a href="https://www.facebook.com/ta.min.h.hoang.293535" target="_blank">Minh Hoang</a> <br>
       ❯ <b>DC  :</b> <a href="https://discord.com/users/1327981540738863195" target="_blank">TaHoang715</a> 
       ❯ <b>LN  :</b> <a href="https://www.linkedin.com/in/ho%C3%A0ng-t%E1%BA%A1-a9a5031b8" target="_blank">Hoàng Tạ</a> <br>
@@ -240,3 +243,7 @@
   <br><br>
   <img src="https://count.getloli.com/get/@TaHoang715?theme=moebooru&v=1" alt="Moe Counter" />
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=100&section=footer"/>
