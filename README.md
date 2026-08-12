@@ -101,7 +101,7 @@
 
 <br>
 
-<details open>
+<details>
   <summary><h2><samp>[//] ABOUT ME</samp></h2></summary>
   <br>
   <p align="justify">
@@ -168,7 +168,7 @@
 
 <br>
 
-<details open>
+<details>
   <summary><h2><samp>[//] GIT COMBAT STATS</samp></h2></summary>
   <br>
   <div align="center">
