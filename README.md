@@ -255,7 +255,7 @@
   <code>[system@tahoang715]$ connection_established --status=success</code> <br>
   <i>"Initialization complete. Feel free to inspect the source or initiate a handshake for collaboration."</i>
   <br><br>
-  <img src="https://raw.githubusercontent.com/Anankke/Anankke/master/images/green.gif" width="40" alt="Cyber Pulse" />
+  <!-- <img src="https://raw.githubusercontent.com/Anankke/Anankke/master/images/green.gif" width="40" alt="Cyber Pulse" /> -->
 </p>
 
 ---
