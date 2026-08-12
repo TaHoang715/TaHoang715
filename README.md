@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/a492b7c6-eb2d-4e44-a427-02abb83cd7c6" width="100%" style="max-width: 850px; border-radius: 8px;" alt="TaHoang715 Cyber Banner" />
+<div style="background: #0b0f19; border: 2px solid #00f5d4; border-radius: 12px; padding: 12px; max-width: 850px; margin: 0 auto; box-shadow: 0 0 25px rgba(0, 245, 212, 0.45);">
+  <img src="https://raw.githubusercontent.com/TaHoang715/TaHoang715/main/assets/cyber_banner.webp" width="100%" style="border-radius: 6px;" alt="TaHoang715 Cyber Banner" />
+</div>
 
 <!--# ─── ⋆⋅☆⋅⋆ ─── @TaHoang715 ─── ⋆⋅☆⋅⋆ ───-->
 
