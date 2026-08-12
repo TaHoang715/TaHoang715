@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00f5d4"/>
+<img width="100%" src="https://raw.githubusercontent.com/TaHoang715/TaHoang715/main/assets/wave-header.svg"/>
 
 <div align="center">
 
@@ -23,7 +23,6 @@
   <br>
 
 ---
-
 
 <div align="left">
 
@@ -261,4 +260,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00f5d4&height=100&section=footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/TaHoang715/TaHoang715/main/assets/wave-footer.svg"/>
