@@ -167,36 +167,34 @@
 
 <br>
 
-<details>
+<details open>
   <summary><h2><samp>[//] GIT COMBAT STATS</samp></h2></summary>
   <br>
   <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#0b0f19">
-    <tr bgcolor="#0b0f19">
-      <td colspan="2" align="center" bgcolor="#0b0f19">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=tokyonight&column=4&margin-w=15&margin-h=15&title=-Reviews" alt="GitHub Trophies" />
-        </a>
-        <br><br>
-      </td>
-    </tr>
-    <tr bgcolor="#0b0f19">
-      <td valign="top" align="center" bgcolor="#0b0f19">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0b0f19&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-      </td>
-      <td valign="top" align="center" bgcolor="#0b0f19">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TaHoang715&theme=dark&background=0b0f19&fire=00f5d4&ring=00f5d4&currStreakLabel=00f5d4&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" height="165" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr bgcolor="#0b0f19">
-      <td valign="top" align="center" bgcolor="#0b0f19">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0b0f19&hide_border=true&hide=cmake" height="165" alt="Top Languages" />
-      </td>
-      <td valign="top" align="center" bgcolor="#0b0f19">
-        <img src="https://github.com/user-attachments/assets/aa2055ed-bcb5-4fa7-ae05-3b448438c573" height="165" style="border-radius: 8px; border: 2px solid #00f5d4; box-shadow: 0 0 10px rgba(0, 245, 212, 0.35);" alt="Custom GIF Asset" />
-      </td>
-    </tr>
-  </table>
+    <!-- GITHUB TROPHIES (DUAL THEME) -->
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=tokyonight&column=4&margin-w=15&margin-h=15&title=-Reviews#gh-dark-mode-only" alt="GitHub Trophies Dark" />
+      <img src="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=flat&column=4&margin-w=15&margin-h=15&title=-Reviews#gh-light-mode-only" alt="GitHub Trophies Light" />
+    </a>
+    <br><br>
+
+    <!-- OVERALL STATS & STREAK STATS SIDE BY SIDE -->
+    <p align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0d1117&hide_border=true&count_private=true#gh-dark-mode-only" height="165" alt="GitHub Stats Dark" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=default&icon_color=098474&title_color=098474&text_color=24292f&bg_color=ffffff&hide_border=true&count_private=true#gh-light-mode-only" height="165" alt="GitHub Stats Light" />
+      &nbsp;
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TaHoang715&theme=dark&background=0d1117&fire=00f5d4&ring=00f5d4&currStreakLabel=00f5d4&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true#gh-dark-mode-only" height="165" alt="GitHub Streak Dark" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TaHoang715&theme=default&background=ffffff&fire=098474&ring=098474&currStreakLabel=098474&currStreakNum=24292f&sideNums=24292f&hide_border=true#gh-light-mode-only" height="165" alt="GitHub Streak Light" />
+    </p>
+
+    <!-- TOP LANGUAGES & ACTIVITY GRAPH SIDE BY SIDE -->
+    <p align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0d1117&hide_border=true&hide=cmake#gh-dark-mode-only" height="165" alt="Top Languages Dark" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=default&icon_color=098474&title_color=098474&text_color=24292f&bg_color=ffffff&hide_border=true&hide=cmake#gh-light-mode-only" height="165" alt="Top Languages Light" />
+      &nbsp;
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaHoang715&custom_title=Code+Frequency&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area_color=00f5d4&area=true&hide_border=true#gh-dark-mode-only" height="165" alt="Activity Graph Dark" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaHoang715&custom_title=Code+Frequency&bg_color=ffffff&color=098474&line=098474&point=24292f&area_color=098474&area=true&hide_border=true#gh-light-mode-only" height="165" alt="Activity Graph Light" />
+    </p>
   </div>
 </details>
 
