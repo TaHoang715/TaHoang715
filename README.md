@@ -171,44 +171,53 @@
   <summary><h2><samp>[//] GIT COMBAT STATS</samp></h2></summary>
   <br>
   <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=tokyonight&column=4&margin-w=15&margin-h=15&title=-Reviews">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=flat&column=4&margin-w=15&margin-h=15&title=-Reviews">
-        <img src="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=tokyonight&column=4&margin-w=15&margin-h=15&title=-Reviews" alt="GitHub Trophies" />
-      </picture>
-    </a>
-    <br><br>
-    <p align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0d1117&hide_border=true&count_private=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=default&icon_color=098474&title_color=098474&text_color=24292f&bg_color=ffffff&hide_border=true&count_private=true">
-        <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </picture>
-      &nbsp;
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=TaHoang715&theme=dark&background=0d1117&fire=00f5d4&ring=00f5d4&currStreakLabel=00f5d4&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=TaHoang715&theme=default&background=ffffff&fire=098474&ring=098474&currStreakLabel=098474&currStreakNum=24292f&sideNums=24292f&hide_border=true">
-        <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=TaHoang715&theme=dark&background=0d1117&fire=00f5d4&ring=00f5d4&currStreakLabel=00f5d4&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" alt="GitHub Streak" />
-      </picture>
-    </p>
-    <p align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0d1117&hide_border=true&hide=cmake">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=default&icon_color=098474&title_color=098474&text_color=24292f&bg_color=ffffff&hide_border=true&hide=cmake">
-        <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0d1117&hide_border=true&hide=cmake" alt="Top Languages" />
-      </picture>
-      &nbsp;
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TaHoang715&custom_title=Code+Frequency&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area_color=00f5d4&area=true&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TaHoang715&custom_title=Code+Frequency&bg_color=ffffff&color=098474&line=098474&point=24292f&area_color=098474&area=true&hide_border=true">
-        <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=TaHoang715&custom_title=Code+Frequency&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area_color=00f5d4&area=true&hide_border=true" alt="Activity Graph" />
-      </picture>
-    </p>
+    <!-- MASTER CONTAINER BẢNG GOM TẤT CẢ VÀO 1 KHUNG VIỀN -->
+    <table border="0" cellpadding="8" cellspacing="0">
+      <tr>
+        <td align="center" colspan="2">
+          <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=tokyonight&column=4&margin-w=15&margin-h=15&title=-Reviews">
+              <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=flat&column=4&margin-w=15&margin-h=15&title=-Reviews">
+              <img src="https://github-profile-trophy-unserori.vercel.app/?username=TaHoang715&theme=tokyonight&column=4&margin-w=15&margin-h=15&title=-Reviews" alt="GitHub Trophies" />
+            </picture>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0d1117&border_color=00f5d4&border_radius=8&count_private=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=default&icon_color=098474&title_color=098474&text_color=24292f&bg_color=ffffff&border_color=098474&border_radius=8&count_private=true">
+            <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=TaHoang715&show_icons=true&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0d1117&border_color=00f5d4&border_radius=8&count_private=true" alt="GitHub Stats" />
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=TaHoang715&theme=dark&background=0d1117&border=00f5d4&border_radius=8&fire=00f5d4&ring=00f5d4&currStreakLabel=00f5d4&currStreakNum=FFFFFF&sideNums=FFFFFF">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=TaHoang715&theme=default&background=ffffff&border=098474&border_radius=8&fire=098474&ring=098474&currStreakLabel=098474&currStreakNum=24292f&sideNums=24292f">
+            <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=TaHoang715&theme=dark&background=0d1117&border=00f5d4&border_radius=8&fire=00f5d4&ring=00f5d4&currStreakLabel=00f5d4&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+          </picture>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0d1117&border_color=00f5d4&border_radius=8&hide=cmake">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=default&icon_color=098474&title_color=098474&text_color=24292f&bg_color=ffffff&border_color=098474&border_radius=8&hide=cmake">
+            <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TaHoang715&layout=compact&theme=dark&icon_color=00f5d4&title_color=00f5d4&text_color=FFFFFF&bg_color=0d1117&border_color=00f5d4&border_radius=8&hide=cmake" alt="Top Languages" />
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TaHoang715&custom_title=Code+Frequency&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area_color=00f5d4&area=true&border=00f5d4&radius=8">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TaHoang715&custom_title=Code+Frequency&bg_color=ffffff&color=098474&line=098474&point=24292f&area_color=098474&area=true&border=098474&radius=8">
+            <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=TaHoang715&custom_title=Code+Frequency&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area_color=00f5d4&area=true&border=00f5d4&radius=8" alt="Activity Graph" />
+          </picture>
+        </td>
+      </tr>
+    </table>
   </div>
-</details>
-
-</div>
 </details>
 
 </div>
