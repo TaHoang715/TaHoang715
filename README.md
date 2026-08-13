@@ -169,7 +169,7 @@
 <br>
 
 <!-- 4. GIT COMBAT STATS (ĐÓNG KHUNG VIỀN MASTER) -->
-<details open>
+<details>
 <summary><h2><samp>[//] GIT COMBAT STATS</samp></h2></summary>
 <br>
 <div align="center">
